@@ -9,4 +9,4 @@ You can make **massive worlds, towers of hell, massive tycoons, simulators with 
 When I have the time to. EEfinity might be a small project, but I have a lot of school on my head.
 
 ### Downloads?
-Look in the downloads tab.
+Look in the releases tab.
